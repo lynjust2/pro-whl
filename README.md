@@ -1,2 +1,2 @@
-# pro-whl
+# 🏒 pro-whl
 ProWHL - Website dedicated to the PWHL
